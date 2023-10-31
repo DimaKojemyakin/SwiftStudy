@@ -5,3 +5,11 @@
   Created by Дима Кожемякин on 30.10.2023.
   
 */
+"Hi! Here you can learn programming skills in Swift (SwiftUI). Let's get started, do you already have the key of knowledge?" = "Привет! Здесь вы можете освоить навыки программирования на Swift (SwiftUI). Давайте начнем, у вас уже есть ключ к знаниям?";
+"I don't have a key" = "У меня нету ключа";
+"I Have a key" = "У меня есть ключ";
+"Error" = "Ошибка";
+"This feature is under development" = "Эта функция находится в стадии разработки";
+"Registration" = "Регистрация";
+"beginner" = "начальный";
+

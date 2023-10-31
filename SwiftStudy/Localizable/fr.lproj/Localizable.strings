@@ -1,7 +1,6 @@
-/* 
-  Localizable.strings
-  SwiftStudy
-
-  Created by Дима Кожемякин on 31.10.2023.
-  
-*/
+"Hi! Here you can learn programming skills in Swift (SwiftUI). Let's get started, do you already have the key of knowledge?" = "Salut ! Ici, vous pouvez apprendre les compétences de programmation en Swift (SwiftUI). Commençons, avez-vous déjà la clé du savoir ?";
+"I don't have a key" = "Je n'ai pas de clé";
+"I Have a key" = "J'ai une clé";
+"Error" = "Erreur";
+"This feature is under development" = "Cette fonctionnalité est en cours de développement";
+"Registration" = "Inscription";

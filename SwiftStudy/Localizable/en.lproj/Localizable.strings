@@ -5,3 +5,13 @@
   Created by Дима Кожемякин on 30.10.2023.
   
 */
+"Hi! Here you can learn programming skills in Swift (SwiftUI). Let's get started, do you already have the key of knowledge?" = "Hi! Here you can learn programming skills in Swift (SwiftUI). Let's get started, do you already have the key of knowledge?";
+"I don't have a key" = "I don't have a key";
+"I Have a key" = "I Have a key";
+"Error" = "Error";
+"This feature is under development" = "This feature is under development";
+"Registration" = "Registration";
+"beginner" = "beginner";
+"intermediate" = "intermediate";
+"experienced" = "experienced";
+"Professional" = "Professional";

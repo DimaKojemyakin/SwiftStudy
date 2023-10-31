@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct SwiftStudyApp: App {
+    
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .preferredColorScheme(.dark)
         }
     }
 }

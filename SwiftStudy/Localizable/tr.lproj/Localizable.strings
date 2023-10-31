@@ -1,7 +1,6 @@
-/* 
-  Localizable.strings
-  SwiftStudy
-
-  Created by Дима Кожемякин on 31.10.2023.
-  
-*/
+"Hi! Here you can learn programming skills in Swift (SwiftUI). Let's get started, do you already have the key of knowledge?" = "Merhaba! Burada Swift (SwiftUI) programlama becerilerini öğrenebilirsiniz. Başlayalım, zaten bilgi anahtarınız var mı?";
+"I don't have a key" = "Benim bir anahtarı yok";
+"I Have a key" = "Benim bir anahtarı var";
+"Error" = "Hata";
+"This feature is under development" = "Bu özellik geliştirme aşamasında";
+"Registration" = "Kayıt";
